@@ -1,9 +1,9 @@
-import Login from './(auth)/signin/page'
+import React from 'react'
 
 function page() {
   return (
     <div>
-      <Login/>
+      teacher
     </div>
   )
 }
